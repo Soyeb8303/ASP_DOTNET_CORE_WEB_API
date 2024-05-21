@@ -1,0 +1,6 @@
+@API_DATABASE_FIRST_APPROACH__HostAddress = http://localhost:5236
+
+GET {{API_DATABASE_FIRST_APPROACH__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

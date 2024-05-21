@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\API(DATABASE_FIRST_APPROACH).props" />
+</Project>
